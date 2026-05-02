@@ -1,0 +1,15 @@
+[package]
+name = "terminal_tools_plus_plus"
+version = "0.1.2"
+authors = ["fox-team-real <foxitochulo@gmail.com>"]
+edition = "2021"
+description = "A collection of enhanced utilities for terminal manipulation and CLI development in Rust."
+documentation = "https://docs.rs/terminal_tools_plus_plus"
+readme = "README.md"
+repository = "https://github.com/team-fox-real/terminal_tools_plus_plus"
+license = "MIT"
+keywords = ["cli", "terminal", "utilities", "tools", "ansi"]
+categories = ["command-line-interface", "development-tools"]
+[dependencies]
+colored = "2.1.0"
+
